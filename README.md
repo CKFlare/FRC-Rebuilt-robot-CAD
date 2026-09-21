@@ -1,4 +1,3 @@
-
 # FRC-Rebuilt-robot-CAD
 A sick 130 pound robot that can drive around shooting hundreds of balls autonomously (in theory).
 [<img width="1669" height="845" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/f9af0dd4-d12c-4e72-98ff-75fea914b02f" />](https://cad.onshape.com/documents/ef90526955e2c1079c0c9faf/w/03993b2fa40710a1deb74a90/e/58e238fa26bdce46de7e348d?renderMode=0&uiState=6aa8a33892df8e4b39a6d890)
@@ -29,6 +28,7 @@ Throughout this project I learned SO much. I learned how to CAD so much more eff
 
 I am in love with this challenge and wish it could never end, but I am glad I could get this project out before it does end. Enjoy
 
+
 <img width="1558" height="720" alt="ezgif com-gif-maker" src="https://github.com/user-attachments/assets/86871961-8c27-4528-8c17-1057031c0bea" />
 *the greatest FRC team to ever live, they dominate Ontario every year and are consistently in the top 5 globally, seating number 1 statistically in 2025, above is a gif of their robot from 2026
 
@@ -41,3 +41,5 @@ that is what my robot could do if it were built, just much worse
 - OP robotics* and Orbit robotics, initially I resisted referencing their robots fearing I would copy them however when I got stuck their robots really did help me fix the problems I had
 - Onshape, I'ts an amazing CAD platform
 - Hack Club for inspiring me to actually finish this project, I have a bad habit of not completing things
+
+<img width="1609" height="502" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/e0ade232-d7f0-4638-9673-8341f2d5850c" />

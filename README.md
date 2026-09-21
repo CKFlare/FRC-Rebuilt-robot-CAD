@@ -19,4 +19,8 @@ Just as a disclaimer this is purely theoretical me nor my team currently have th
 
 # About This Project
 
+As stated above this project was majorly for cad practice, I am from a small team and am one of the main designers, one of like 3. Therefore I have to be able to do everything so designing an entire robot for the Rebuilt FRC season sounded like a good fun challenge, and it was. I decided to go with the corner turret archetype, not only because it is what OP robotics* did and I want to do everything in my power to be like them but because I thought it would be more of a challenge compared to the dumper archetype. As well this originally stemmed from me brainstorming ways to improve my teams competition robot therefore for this project I kept my design in the realm of semi plausable by trying to avoid parts we couldn't manufacture and only using electronics we have. For example, the REV ecosystem, I only used Neo motors.
 
+
+
+*the greatest FRC team to ever live, they dominate Ontario every year and are consistently in the top 5 globally, seating number 1 statistically in 2025

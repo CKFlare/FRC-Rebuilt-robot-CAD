@@ -3,7 +3,7 @@ A sick 130 pound robot that can drive around shooting hundreds of balls autonomo
 [<img width="1669" height="845" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/f9af0dd4-d12c-4e72-98ff-75fea914b02f" />](https://cad.onshape.com/documents/ef90526955e2c1079c0c9faf/w/03993b2fa40710a1deb74a90/e/58e238fa26bdce46de7e348d?renderMode=0&uiState=6aa8a33892df8e4b39a6d890)
 ***click image to access demo**
 
-Features:
+# Features
 
 -has an almost 5 fuel (ball) wide intake with an expanding hopper
 
@@ -17,4 +17,6 @@ Features:
 
 Just as a disclaimer this is purely theoretical me nor my team currently have the resources to build this in real life, it is purely for CAD practice. 
 
-# Technical
+# About This Project
+
+

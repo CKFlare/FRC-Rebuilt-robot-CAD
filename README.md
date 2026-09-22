@@ -20,6 +20,8 @@ Just as a disclaimer this is purely theoretical me nor my team currently have th
 
 # About This Project
 
+For reference FRC (FIRST Robotics Competition) is a global competition where teams from all over the world consisting of students from grade 9 to 12 compete in a new 3 on 3 game every year. Each January a new game is announced and we all have about 2 months to design manufacture and code a multifunctional industrial robot.  
+
 As stated above this project was majorly for CAD practice, I am from a small team and am one of the main designers, one of like 3. Therefore I have to be able to do everything so designing an entire robot for the Rebuilt FRC season sounded like a good fun challenge, and it was. I decided to go with the corner turret archetype, not only because it is what OP robotics* did and I want to do everything in my power to be like them but because I thought it would be more of a challenge compared to the dumper archetype. 
 
 As well this originally stemmed from me brainstorming ways to improve my teams competition robot therefore for this project I kept my design in the realm of semi plausable by trying to avoid parts we couldn't manufacture and only using electronics we have. For example, the REV ecosystem, I only used Neo motors. There is one exception to this rule however, we do not own the MK5 I swerve modules but we are looking to buy some for this upcoming season. We also don't technically have a brake for polycarbonate but I figure we could make do.

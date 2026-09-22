@@ -20,9 +20,9 @@ Just as a disclaimer this is purely theoretical I do not have the resources to b
 
 # About This Project
 
-For reference FRC (FIRST Robotics Competition) is a global competition where teams from all over the world consisting of students from grade 9 to 12 compete in a new 3 on 3 game every year. Each January a new game is announced and we all have about 2 months to design manufacture and code a multifunctional industrial robot.  
+For reference FRC (FIRST Robotics Competition) is a global competition where teams from all over the world consisting of students from grade 9 to 12 compete in a new 3 on 3 game every year. Each January a new game is announced and we all have about 2 months to design manufacture and code a multi-functional industrial robot.  
 
-As stated above this project was majorly for CAD practice,igners, one of like 3. For stardance I decided to desing an entire robot for the Rebuilt FRC season because I really needed some CAD experience and this seemed like a project that would cover a vast array of systems, it also sounded like a lot of fun. I decided to go with the corner turret archetype, not only because it is what OP robotics* did and I want to do everything in my power to be like them but because I thought it would be more of a challenge compared to the dumper archetype. 
+As stated above this project was majorly for CAD practice. For Stardance I decided to design an entire robot for the Rebuilt FRC season because I really needed some CAD experience and this seemed like a project that would cover a vast array of systems, it also sounded like a lot of fun. I decided to go with the corner turret archetype, not only because it is what OP robotics* did and I want to do everything in my power to be like them but because I thought it would be more of a challenge compared to the dumper archetype. 
 
 For this project I tried to keep my design in the realm of semi plausable by trying to avoid parts that would require more than a 3 axis CNC. I also stayed within the REV ecosystem because their parts are more accessible to me. 
 

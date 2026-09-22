@@ -16,7 +16,7 @@ A sick 130 pound robot that can drive around shooting hundreds of balls autonomo
 
 -uses the SDS mk5 I swerve drive base to allow for omnidirectional movements of up to 18 feet per second
 
-Just as a disclaimer this is purely theoretical I do not have the resources to build this in real life, it is purely for CAD practice. 
+Just as a disclaimer this is purely theoretical I do not have the resources to build this in real life, it is purely for fun and CAD practice. 
 
 # About This Project
 

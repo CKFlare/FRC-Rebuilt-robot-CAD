@@ -16,17 +16,17 @@ A sick 130 pound robot that can drive around shooting hundreds of balls autonomo
 
 -uses the SDS mk5 I swerve drive base to allow for omnidirectional movements of up to 18 feet per second
 
-Just as a disclaimer this is purely theoretical me nor my team currently have the resources to build this in real life, it is purely for CAD practice. 
+Just as a disclaimer this is purely theoretical I do not have the resources to build this in real life, it is purely for CAD practice. 
 
 # About This Project
 
 For reference FRC (FIRST Robotics Competition) is a global competition where teams from all over the world consisting of students from grade 9 to 12 compete in a new 3 on 3 game every year. Each January a new game is announced and we all have about 2 months to design manufacture and code a multifunctional industrial robot.  
 
-As stated above this project was majorly for CAD practice, I am from a small team and am one of the main designers, one of like 3. Therefore I have to be able to do everything so designing an entire robot for the Rebuilt FRC season sounded like a good fun challenge, and it was. I decided to go with the corner turret archetype, not only because it is what OP robotics* did and I want to do everything in my power to be like them but because I thought it would be more of a challenge compared to the dumper archetype. 
+As stated above this project was majorly for CAD practice,igners, one of like 3. For stardance I decided to desing an entire robot for the Rebuilt FRC season because I really needed some CAD experience and this seemed like a project that would cover a vast array of systems, it also sounded like a lot of fun. I decided to go with the corner turret archetype, not only because it is what OP robotics* did and I want to do everything in my power to be like them but because I thought it would be more of a challenge compared to the dumper archetype. 
 
-As well this originally stemmed from me brainstorming ways to improve my teams competition robot therefore for this project I kept my design in the realm of semi plausable by trying to avoid parts we couldn't manufacture and only using electronics we have. For example, the REV ecosystem, I only used Neo motors. There is one exception to this rule however, we do not own the MK5 I swerve modules but we are looking to buy some for this upcoming season. We also don't technically have a brake for polycarbonate but I figure we could make do.
+For this project I tried to keep my design in the realm of semi plausable by trying to avoid parts that would require more than a 3 axis CNC. I also stayed within the REV ecosystem because their parts are more accessible to me. 
 
-Throughout this project I learned SO much. I learned how to CAD so much more efficiently, I learned a lot about FRC and so much more. Mainly I think I learned most about top down design, I didn't necessarily use it properly in this design but through failure is how you learn. I think for this upcoming FRC season and throughout my entire life as a maker I will use these skills learned during Stardance a whole lot. 
+Throughout this project I learned SO much. I learned how to CAD so much more efficiently, and so much more. Mainly I think I learned most about top down design, I didn't necessarily use it properly in this design but through failure is how you learn. I think throughout my entire life as a maker I will use these skills learned during Stardance a whole lot. 
 
 I am in love with this challenge and wish it could never end, but I am glad I could get this project out before it does end. Enjoy
 
